@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# downloaded media and external tools
+downloads/
+videos/
+tools/
+output/
+input/
+
+# logs and per-run config
+*.log
+config.json
+
+.env
